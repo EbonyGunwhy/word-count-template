@@ -7,8 +7,6 @@
 word-count
 ==========
 
-Hello hello this is a test edit.
-
 .. toctree::
    :maxdepth: 2
 
